@@ -12,6 +12,8 @@ STEP 5: Print the result. STEP 6: Stop.
 
 ### Program:
 ```
+reg no:212223070023
+name:Saran Krishna P S 
 def sum_digit(n):
        if n<=0:
             return 0
@@ -22,7 +24,8 @@ sum = sum_digit(n)
 print(sum)
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/50acc657-266e-46e6-ab17-10358494e26c)
+![image](https://github.com/user-attachments/assets/f8a856c5-040c-441e-b28e-9f3882bd6410)
+
 
 ### Result: Thus, the given program is implemented and executed successfully .
  
@@ -41,6 +44,8 @@ STEP 4: Print the result.
 STEP 5: Stop.
 ### Program:
 ```
+reg no:212223070023
+name:Saran Krishna P S 
 def fun(n):
      if (n >0):
           fun(n - 2)
@@ -53,7 +58,7 @@ else:
 
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/c4d6416f-d333-49c1-9dd5-0f774cdabb03)
+![image](https://github.com/user-attachments/assets/2f834f51-5958-4f87-8408-664802f90d1c)
 
 ###Result: Thus, the given program is implemented and executed successfully.
  
@@ -76,6 +81,8 @@ STEP 5: Print the result.
 STEP 6: Stop.
 ### Program:
 ```
+reg no:212223070023
+name:Saran Krishna P S 
 def series(x,n):
          if n==0:
             return 1
@@ -86,7 +93,8 @@ n = int(input())
 print(series(x,n))
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/1d00b1a4-cecb-466f-8593-805f00d27461)
+![image](https://github.com/user-attachments/assets/1a43172d-a781-4ed3-a521-0e2442554b40)
+
 
  
 ### Result: Thus, the given program is implemented and executed successfully .
@@ -113,6 +121,8 @@ STEP 7: Stop.
 
 ### Program:
 ```
+reg no:212223070023
+name:Saran Krishna P S 
 def is_palindrome(word):
       if len(word)<1:
             return True
@@ -128,7 +138,7 @@ else:
         print("String is not a palindrome")
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/d30ef836-1901-448a-a146-dc905fdc3198)
+![image](https://github.com/user-attachments/assets/e2ac4f00-07dd-4157-afae-546683822c56)
 
 ### Result: Thus, the given program is implemented and executed successfully .
  
